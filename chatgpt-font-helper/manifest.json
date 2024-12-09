@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Font Changer for ChatGPT",
+  "version": "1.0",
+  "description": "Change ChatGPT font and preview installed fonts.",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["https://*.chatgpt.com/*"],
+  "action": {
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    },
+    "default_popup": "popup.html"
+  }
+}
