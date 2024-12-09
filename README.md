@@ -16,7 +16,7 @@
 
 ## 截图
 ### 插件界面
-![插件界面](https://via.placeholder.com/800x400?text=插件界面截图)
+![插件界面](https://github.com/Haku2205/chatgpt-font-helper/blob/main/screenshot1.jpg)
 
 ---
 
